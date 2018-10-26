@@ -3,7 +3,7 @@
 
 
 ## 效果预览
-
+https://leo36502.github.io/vue-demo/dist
 ## 项目描述
 ### 技术栈
 Vue2.0全家桶 + axios +　Vuex +  Mint-Ui + Mock.js + Stylus
